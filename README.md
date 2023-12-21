@@ -1,4 +1,4 @@
-# Pixello - An Instagram Clone
+# Pixello - A social media app
 
 ## Features
 - Responsive UI
